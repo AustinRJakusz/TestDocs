@@ -21,8 +21,8 @@ First time looking at NetManager? If so, this is a good place to start.
 - **Logging** :doc:`logging`
 
 .. toctree::
-    :maxdepth: 2
-    introduction
+   :maxdepth: 2
+   introduction
 
 Getting Help
 ------------
