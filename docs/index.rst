@@ -20,6 +20,10 @@ First time looking at NetManager? If so, this is a good place to start.
 - **Quick Start** :doc:`quickstart`
 - **Logging** :doc:`logging`
 
+.. toctree::
+    :maxdepth: 2
+    introduction
+
 Getting Help
 ------------
 Having issues? If so, check out the resources below:
